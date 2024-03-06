@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rix
+- 👀 I’m interested in Web development
+- 😄 Pronouns: He/Him
